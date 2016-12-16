@@ -1,0 +1,31 @@
+INFO    2016-08-09 23:16:50,216 [AWT-EventQueue-0] dsmssystem  - Manager from MTL with manager ID MTL1111 logged in this application
+INFO    2016-08-09 23:16:53,521 [Thread-1] dsmssystem  - ReplicaLeila Says: New Doctor Record is created by manager with managerID MTL1111 in clinic location MTL
+INFO    2016-08-09 23:16:53,521 [Thread-9] dsmssystem  - ReplicaMandeep Says: New Doctor Record is created by manager with managerID MTL1111 in clinic location MTL
+INFO    2016-08-09 23:16:53,521 [Thread-5] dsmssystem  - ReplicaAnanta Says: New Doctor Record is created by manager with managerID MTL1111 in clinic location MTL
+INFO    2016-08-09 23:17:14,010 [AWT-EventQueue-0] dsmssystem  - Manager from LVL with manager ID LVL1111 logged in this application
+INFO    2016-08-09 23:17:17,158 [Thread-3] dsmssystem  - ReplicaLeila Says: New Doctor Record is created by manager with managerID LVL1111 in clinic location LVL
+INFO    2016-08-09 23:17:17,158 [Thread-7] dsmssystem  - ReplicaAnanta Says: New Doctor Record is created by manager with managerID LVL1111 in clinic location LVL
+INFO    2016-08-09 23:17:17,158 [Thread-11] dsmssystem  - ReplicaMandeep Says: New Doctor Record is created by manager with managerID LVL1111 in clinic location LVL
+INFO    2016-08-09 23:17:19,097 [Thread-3] dsmssystem  - ReplicaLeila Says: MTLCount: 1 DDOCount: 0 LVLCount: 1,,
+INFO    2016-08-09 23:17:19,097 [Thread-11] dsmssystem  - ReplicaMandeep Says: MTLCount: 1 DDOCount: 0 LVLCount: 1,,
+INFO    2016-08-09 23:17:19,097 [Thread-7] dsmssystem  - ReplicaAnanta Says: MTLCount: 1 DDOCount: 0 LVLCount: 1,,
+INFO    2016-08-09 23:17:29,830 [Thread-3] dsmssystem  - ReplicaLeila Says: New Doctor Record is created by manager with managerID LVL1111 in clinic location LVL
+INFO    2016-08-09 23:17:29,830 [Thread-11] dsmssystem  - ReplicaMandeep Says: New Doctor Record is created by manager with managerID LVL1111 in clinic location LVL
+INFO    2016-08-09 23:17:29,830 [Thread-7] dsmssystem  - ReplicaAnanta Says: New Doctor Record is created by manager with managerID LVL1111 in clinic location LVL
+INFO    2016-08-09 23:17:44,589 [Thread-3] dsmssystem  - ReplicaLeila Says: The record with ID: DR10001 is being transfered from LVL to MTL,,
+INFO    2016-08-09 23:17:44,589 [Thread-7] dsmssystem  - ReplicaAnanta Says: The record with ID: DR10001 is being transfered from LVL to MTL,,
+INFO    2016-08-09 23:17:44,589 [Thread-5] dsmssystem  - ReplicaAnanta Says: MTL:added records are: [DR10000, DR10001] and the currentcount is: 2,,
+INFO    2016-08-09 23:17:44,589 [Thread-1] dsmssystem  - ReplicaLeila Says: MTL:added records are: [DR10000, DR10001] and the currentcount is: 2,,
+INFO    2016-08-09 23:17:44,591 [Thread-11] dsmssystem  - ReplicaMandeep Says: The record with ID: DR10001 is being transfered from LVL to MTL,,
+INFO    2016-08-09 23:17:44,591 [Thread-9] dsmssystem  - ReplicaMandeep Says: MTL:added records are: [DR10000, DR10001] and the currentcount is: 2,,
+INFO    2016-08-09 23:17:48,288 [Thread-3] dsmssystem  - ReplicaLeila Says: MTLCount: 2 DDOCount: 0 LVLCount: 1,,
+INFO    2016-08-09 23:17:48,289 [Thread-7] dsmssystem  - ReplicaAnanta Says: MTLCount: 2 DDOCount: 0 LVLCount: 1,,
+INFO    2016-08-09 23:17:48,289 [Thread-11] dsmssystem  - ReplicaMandeep Says: MTLCount: 2 DDOCount: 0 LVLCount: 1,,
+INFO    2016-08-09 23:18:11,469 [Thread-7] dsmssystem  - ReplicaAnanta Says: New Doctor Record is created by manager with managerID LVL1111 in clinic location LVL
+INFO    2016-08-09 23:18:11,469 [Thread-11] dsmssystem  - ReplicaMandeep Says: New Doctor Record is created by manager with managerID LVL1111 in clinic location LVL
+INFO    2016-08-09 23:18:32,737 [Thread-3] dsmssystem  - ReplicaLeila Says: MTLCount: 2 DDOCount: 0 LVLCount: 2,,
+INFO    2016-08-09 23:18:32,737 [Thread-7] dsmssystem  - ReplicaAnanta Says: MTLCount: 2 DDOCount: 0 LVLCount: 2,,
+INFO    2016-08-09 23:18:32,737 [Thread-11] dsmssystem  - ReplicaMandeep Says: MTLCount: 2 DDOCount: 0 LVLCount: 2,,
+INFO    2016-08-09 23:20:00,849 [Thread-7] dsmssystem  - ReplicaAnanta Says: MTLCount: 2 DDOCount: 0 LVLCount: 2,,
+INFO    2016-08-09 23:20:00,849 [Thread-3] dsmssystem  - ReplicaLeila Says: MTLCount: 2 DDOCount: 0 LVLCount: 2,,
+INFO    2016-08-09 23:20:00,850 [Thread-11] dsmssystem  - ReplicaMandeep Says: MTLCount: 2 DDOCount: 0 LVLCount: 2,,

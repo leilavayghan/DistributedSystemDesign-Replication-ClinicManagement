@@ -1,0 +1,5 @@
+module CORBA {
+interface FrontEnd {
+	string execute(in string a);
+};
+};
